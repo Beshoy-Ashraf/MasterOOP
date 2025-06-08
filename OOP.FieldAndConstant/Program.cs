@@ -4,7 +4,6 @@ namespace OOP.FieldAndConstant;
 
 class Program
 {
-    private static PrintClass str = new PrintClass();
     static void Main(string[] args)
     {
         str.Print("Hello Dear enter numbers of Employee: ");

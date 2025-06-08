@@ -1,8 +1,8 @@
 ﻿namespace OPP.PrintClass;
 
-public class PrintClass
+public class str
 {
-    public void Print(String x)
+    public static void Print(String x)
     {
         Console.Write(x);
     }

@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.FieldAndConstant", "OOP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPP.PrintClass", "OPP.PrintClass\OPP.PrintClass.csproj", "{78D1C728-4FAD-4796-A040-9151282EDF48}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Constractor", "OOP.Constractor\OOP.Constractor.csproj", "{BDE4151A-E973-4199-87B1-A159438FCB4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{78D1C728-4FAD-4796-A040-9151282EDF48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78D1C728-4FAD-4796-A040-9151282EDF48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78D1C728-4FAD-4796-A040-9151282EDF48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDE4151A-E973-4199-87B1-A159438FCB4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE4151A-E973-4199-87B1-A159438FCB4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE4151A-E973-4199-87B1-A159438FCB4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE4151A-E973-4199-87B1-A159438FCB4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

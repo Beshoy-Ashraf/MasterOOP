@@ -1,6 +1,6 @@
 ﻿using OPP.PrintClass;
 
-namespace OOP.Constractor;
+namespace OOP.Constructor;
 
 class Program
 {

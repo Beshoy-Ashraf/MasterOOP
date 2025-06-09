@@ -1,6 +1,6 @@
 using System.Data;
 
-namespace OOP.Constractor;
+namespace OOP.Constructor;
 
 public class Date
 {

@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Constructor", "OOP.Cons
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Properties", "OOP.Properties\OOP.Properties.csproj", "{02EC54B4-75E0-4E29-B89D-C394684C01F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Indexers", "OOP.Indexers\OOP.Indexers.csproj", "{48F3BE1E-BB63-4661-99D4-FF893141E6F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{02EC54B4-75E0-4E29-B89D-C394684C01F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02EC54B4-75E0-4E29-B89D-C394684C01F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02EC54B4-75E0-4E29-B89D-C394684C01F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48F3BE1E-BB63-4661-99D4-FF893141E6F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48F3BE1E-BB63-4661-99D4-FF893141E6F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48F3BE1E-BB63-4661-99D4-FF893141E6F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48F3BE1E-BB63-4661-99D4-FF893141E6F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

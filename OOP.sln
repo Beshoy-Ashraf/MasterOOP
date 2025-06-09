@@ -12,6 +12,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Indexers", "OOP.Indexer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Delegate", "OOP.Delegate\OOP.Delegate.csproj", "{36A1FE9D-5827-4F9A-B476-A8FA8FE62D4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Events", "OOP.Events\OOP.Events.csproj", "{847F5A17-D656-4F30-9405-F4F4D03877EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.OperatorOverloading", "OOP.OperatorOverloading\OOP.OperatorOverloading.csproj", "{0C274382-13D2-4069-B7E5-2572ADEDB5B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +46,13 @@ Global
 		{36A1FE9D-5827-4F9A-B476-A8FA8FE62D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36A1FE9D-5827-4F9A-B476-A8FA8FE62D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36A1FE9D-5827-4F9A-B476-A8FA8FE62D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{847F5A17-D656-4F30-9405-F4F4D03877EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{847F5A17-D656-4F30-9405-F4F4D03877EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{847F5A17-D656-4F30-9405-F4F4D03877EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{847F5A17-D656-4F30-9405-F4F4D03877EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C274382-13D2-4069-B7E5-2572ADEDB5B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C274382-13D2-4069-B7E5-2572ADEDB5B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C274382-13D2-4069-B7E5-2572ADEDB5B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C274382-13D2-4069-B7E5-2572ADEDB5B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -7,6 +7,7 @@
     <projectFile>OOP.Events/OOP.Events.csproj</projectFile>
     <projectFile>OOP.FieldAndConstant/OOP.FieldAndConstant.csproj</projectFile>
     <projectFile>OOP.Indexers/OOP.Indexers.csproj</projectFile>
+    <projectFile>OOP.Inheritance/OOP.Inheritance.csproj</projectFile>
     <projectFile>OOP.NestedTypes/OOP.NestedTypes.csproj</projectFile>
     <projectFile>OOP.OperatorOverloading/OOP.OperatorOverloading.csproj</projectFile>
     <projectFile>OOP.Properties/OOP.Properties.csproj</projectFile>
@@ -17,8 +18,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0e15549-7419-4fd5-a408-74253689ea4e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/OOP.Inheritance/OOP.Inheritance.Animal.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP.Inheritance/OOP.Inheritance.Eagle.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP.Inheritance/OOP.Inheritance.Falcon.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.OOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OOP/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP.sln" beforeDir="false" afterPath="$PROJECT_DIR$/OOP.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OPP.PrintClass/TOKEN" beforeDir="false" afterPath="$PROJECT_DIR$/OPP.PrintClass/TOKEN" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +77,7 @@
     ".NET Project.OOP.Events.executor": "Run",
     ".NET Project.OOP.FieldAndConstant.executor": "Run",
     ".NET Project.OOP.Indexers.executor": "Run",
+    ".NET Project.OOP.Inheritance.executor": "Run",
     ".NET Project.OOP.NestedTypes.executor": "Run",
     ".NET Project.OOP.OperatorOverloading.executor": "Run",
     ".NET Project.OOP.Properties.executor": "Run",
@@ -87,7 +93,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected=".NET Project.OOP.Enum">
+  <component name="RunManager" selected=".NET Project.OOP.Inheritance">
     <configuration name="OOP." type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/OOP.FieldAndConstant/bin/Debug/net9.0/OOP.FieldAndConstant" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -318,6 +324,29 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="OOP.Inheritance" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="PTY_MODE" value="Auto" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="AUTO_ATTACH_CHILDREN" value="0" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/OOP.Inheritance/OOP.Inheritance.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="OOP.NestedTypes" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -504,6 +533,7 @@
     </configuration>
     <list>
       <item itemvalue=".NET Project.OOP.Enum" />
+      <item itemvalue=".NET Project.OOP.Inheritance" />
       <item itemvalue=".NET Project.OOP.Struct" />
       <item itemvalue=".NET Project.OOP.NestedTypes" />
       <item itemvalue=".NET Project.OOP.Delegate" />
@@ -525,7 +555,7 @@
       <workItem from="1749384210205" duration="1980000" />
       <workItem from="1749411964534" duration="16220000" />
       <workItem from="1749494002734" duration="1720000" />
-      <workItem from="1749577876369" duration="2768000" />
+      <workItem from="1749577876369" duration="4480000" />
     </task>
     <task id="LOCAL-00001" summary="Field And Constant">
       <option name="closed" value="true" />

@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Enum", "OOP.Enum\OOP.En
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Inheritance", "OOP.Inheritance\OOP.Inheritance.csproj", "{173B140D-DDEC-4DB2-860A-DE6AA187C434}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.InheritanceProject", "OOP.InheritanceProject\OOP.InheritanceProject.csproj", "{166AC012-7F69-4FF5-967C-620424CF65E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +80,9 @@ Global
 		{173B140D-DDEC-4DB2-860A-DE6AA187C434}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{173B140D-DDEC-4DB2-860A-DE6AA187C434}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{173B140D-DDEC-4DB2-860A-DE6AA187C434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{166AC012-7F69-4FF5-967C-620424CF65E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{166AC012-7F69-4FF5-967C-620424CF65E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{166AC012-7F69-4FF5-967C-620424CF65E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{166AC012-7F69-4FF5-967C-620424CF65E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

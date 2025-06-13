@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Inheritance", "OOP.Inhe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.InheritanceProject", "OOP.InheritanceProject\OOP.InheritanceProject.csproj", "{166AC012-7F69-4FF5-967C-620424CF65E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Interface", "OOP.Interface\OOP.Interface.csproj", "{C6A9631A-E3DB-414D-A111-C394FE0812D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{166AC012-7F69-4FF5-967C-620424CF65E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{166AC012-7F69-4FF5-967C-620424CF65E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{166AC012-7F69-4FF5-967C-620424CF65E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6A9631A-E3DB-414D-A111-C394FE0812D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6A9631A-E3DB-414D-A111-C394FE0812D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6A9631A-E3DB-414D-A111-C394FE0812D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6A9631A-E3DB-414D-A111-C394FE0812D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

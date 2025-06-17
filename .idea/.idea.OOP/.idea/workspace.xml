@@ -6,6 +6,7 @@
     <projectFile>OOP.Enum/OOP.Enum.csproj</projectFile>
     <projectFile>OOP.Events/OOP.Events.csproj</projectFile>
     <projectFile>OOP.FieldAndConstant/OOP.FieldAndConstant.csproj</projectFile>
+    <projectFile>OOP.Generics/OOP.Generics.csproj</projectFile>
     <projectFile>OOP.Indexers/OOP.Indexers.csproj</projectFile>
     <projectFile>OOP.Inheritance/OOP.Inheritance.csproj</projectFile>
     <projectFile>OOP.InheritanceProject/OOP.InheritanceProject.csproj</projectFile>
@@ -20,12 +21,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0e15549-7419-4fd5-a408-74253689ea4e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/OOP.Interface/Cash.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP.Interface/Cashier.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP.Interface/Debit.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP.Interface/Ipayment.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP.Interface/MasterCard.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP.Interface/Visa.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP.Generics/Any.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.OOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OOP/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP.sln" beforeDir="false" afterPath="$PROJECT_DIR$/OOP.sln" afterDir="false" />
     </list>
@@ -61,6 +57,7 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/bf07be36dfaa4f47b843d44a6617c8b9d19e00/4b/e4ff4948/Int32.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/bf07be36dfaa4f47b843d44a6617c8b9d19e00/4d/41de7e49/SharedArrayPool`1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/bf07be36dfaa4f47b843d44a6617c8b9d19e00/7b/eb2b90ac/Math.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/bf07be36dfaa4f47b843d44a6617c8b9d19e00/7d/a59ccf16/Array.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/bf07be36dfaa4f47b843d44a6617c8b9d19e00/86/9a4d32f8/Decimal.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/bf07be36dfaa4f47b843d44a6617c8b9d19e00/94/cd2cb69b/ArgumentOutOfRangeException.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/bf07be36dfaa4f47b843d44a6617c8b9d19e00/9b/e7391a1b/Volatile.cs" root0="FORCE_HIGHLIGHTING" />
@@ -83,6 +80,7 @@
     ".NET Project.OOP.Enum.executor": "Run",
     ".NET Project.OOP.Events.executor": "Run",
     ".NET Project.OOP.FieldAndConstant.executor": "Run",
+    ".NET Project.OOP.Generics.executor": "Debug",
     ".NET Project.OOP.Indexers.executor": "Run",
     ".NET Project.OOP.Inheritance.executor": "Run",
     ".NET Project.OOP.InheritanceProject.executor": "Run",
@@ -102,7 +100,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected=".NET Project.OOP.Interface">
+  <component name="RunManager" selected=".NET Project.OOP.Generics">
     <configuration name="OOP." type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/OOP.FieldAndConstant/bin/Debug/net9.0/OOP.FieldAndConstant" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -278,6 +276,29 @@
       <option name="AUTO_ATTACH_CHILDREN" value="0" />
       <option name="MIXED_MODE_DEBUG" value="0" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/OOP.Events/OOP.Events.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="OOP.Generics" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="PTY_MODE" value="Auto" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="AUTO_ATTACH_CHILDREN" value="0" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/OOP.Generics/OOP.Generics.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -587,6 +608,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue=".NET Project.OOP.Generics" />
       <item itemvalue=".NET Project.OOP.Interface" />
       <item itemvalue=".NET Project.OOP.Enum" />
       <item itemvalue=".NET Project.OOP.Inheritance" />
@@ -614,6 +636,7 @@
       <workItem from="1749494002734" duration="1720000" />
       <workItem from="1749577876369" duration="12444000" />
       <workItem from="1749844169788" duration="2571000" />
+      <workItem from="1750188651520" duration="1462000" />
     </task>
     <task id="LOCAL-00001" summary="Field And Constant">
       <option name="closed" value="true" />

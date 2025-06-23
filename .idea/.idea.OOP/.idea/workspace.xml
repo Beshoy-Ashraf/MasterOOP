@@ -20,11 +20,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0e15549-7419-4fd5-a408-74253689ea4e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/OOP.Generics/Any.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.OOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OOP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP.sln" beforeDir="false" afterPath="$PROJECT_DIR$/OOP.sln" afterDir="false" />
-    </list>
+    <list default="true" id="a0e15549-7419-4fd5-a408-74253689ea4e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +76,7 @@
     ".NET Project.OOP.Enum.executor": "Run",
     ".NET Project.OOP.Events.executor": "Run",
     ".NET Project.OOP.FieldAndConstant.executor": "Run",
-    ".NET Project.OOP.Generics.executor": "Debug",
+    ".NET Project.OOP.Generics.executor": "Run",
     ".NET Project.OOP.Indexers.executor": "Run",
     ".NET Project.OOP.Inheritance.executor": "Run",
     ".NET Project.OOP.InheritanceProject.executor": "Run",
@@ -636,7 +632,7 @@
       <workItem from="1749494002734" duration="1720000" />
       <workItem from="1749577876369" duration="12444000" />
       <workItem from="1749844169788" duration="2571000" />
-      <workItem from="1750188651520" duration="1462000" />
+      <workItem from="1750188651520" duration="2338000" />
     </task>
     <task id="LOCAL-00001" summary="Field And Constant">
       <option name="closed" value="true" />

@@ -17,7 +17,7 @@ class Program
         
         
         // PrintNumbers(numbers,n=> n > 5);
-        PrintNumbers(numbers,n=> n % 2 == 0);
+        PrintNumbers(numbers,n=> n > 5);
         
     }
 

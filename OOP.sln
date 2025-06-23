@@ -30,6 +30,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Interface", "OOP.Interf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Generics", "OOP.Generics\OOP.Generics.csproj", "{815FA422-00DE-4D2A-ABAA-D6C456B3D3FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.CAExceptions", "OOP.CAExceptions\OOP.CAExceptions.csproj", "{38950C50-21BC-4D01-89C4-340913A8ADA6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,5 +98,9 @@ Global
 		{815FA422-00DE-4D2A-ABAA-D6C456B3D3FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{815FA422-00DE-4D2A-ABAA-D6C456B3D3FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{815FA422-00DE-4D2A-ABAA-D6C456B3D3FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38950C50-21BC-4D01-89C4-340913A8ADA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38950C50-21BC-4D01-89C4-340913A8ADA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38950C50-21BC-4D01-89C4-340913A8ADA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38950C50-21BC-4D01-89C4-340913A8ADA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
